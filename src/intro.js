@@ -21,7 +21,7 @@ const intro = () => [
     id: 'main-photo',
     type: 'img',
     text: '',
-    attr: [{attr:'src', value:'../src/res1.jpg'}, {attr:'width', value:'500px'}]
+    attr: [{attr:'src', value:'../dist/res1.jpg'}, {attr:'width', value:'500px'}]
 
 },
 
